@@ -69,7 +69,7 @@
         "gitDecoration.addedResourceForeground": "#778C73",
         "editorGutter.addedBackground": "#778C73",
         "editorGutter.deletedBackground": "#A97070",
-        "editorGutter.modifiedBackground": "#6c8093",
+        "editorGutter.modifiedBackground": "#C5916B",
 
         "editorGroupHeader.tabsBackground": "#232225",
         "editorGroupHeader.tabsBorder": "#3c3836",
@@ -121,8 +121,8 @@
                 "variable",
                 "string constant.other.placeholder",
                 "meta.function-call.arguments",
-                "meta.block variable.other"
-
+                "meta.block variable.other",
+                "meta.interpolation"
             ],
             "settings": {
                 "fontStyle": "normal",
@@ -143,7 +143,10 @@
             "name": "Keyword, Storage",
             "scope": [
                 "keyword",
+                "keyword.other",
                 "keyword.operator.expression",
+                "storage.type.function",
+                "storage.type.class",
                 "storage.modifier"
             ],
             "settings": {
@@ -175,7 +178,8 @@
                 "punctuation.definition.tag.end.html",
                 "punctuation.section.embedded",
                 "keyword.other.template",
-                "keyword.other.substitution"
+                "keyword.other.substitution",
+                "keyword.operator.logical.python",
             ],
             "settings": {
                 "foreground": "#A97070"
@@ -237,7 +241,6 @@
                 "punctuation.definition.string",
                 "constant.other.symbol",
                 "constant.other.key",
-                "entity.other.inherited-class",
                 "markup.heading",
                 "markup.inserted.git_gutter",
                 "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
@@ -259,7 +262,8 @@
                 "markup.changed.git_gutter",
                 "support.type.sys-types",
                 "constant.numeric",
-                "constant.language"
+                "constant.language",
+                "entity.other.inherited-class"
             ],
             "settings": {
                 "foreground": "#886C92"
@@ -269,7 +273,11 @@
             "name": "Entity Types",
             "scope": [
                 "entity.name.function.decorator",
-                "punctuation.definition.decorator"
+                "punctuation.definition.decorator",
+                "meta.function.decorator",
+                "keyword.operator.macro",
+                "entity.name.function.macro",
+                "variable.other.metavariable"
             ],
             "settings": {
                 "foreground": "#886C92"
@@ -305,7 +313,8 @@
             "name": "Language methods",
             "scope": [
                 "variable.language",
-                "variable.other.object"
+                "variable.other.object",
+                "entity.name.type.primitive"
             ],
             "settings": {
                 "foreground": "#AD9685"
@@ -314,10 +323,31 @@
         {
             "name": "Golang types",
             "scope": [
-                "storage.type"
+                "source.go storage.type"
             ],
             "settings": {
                 "foreground": "#AD9685"
+            }
+        },
+        {
+            "name": "Rust types",
+            "scope": [
+                "entity.name.type.result.rust",
+                "entity.name.type.numeric.rust",
+                "entity.name.namespace.rust",
+                "meta.use.rust"
+            ],
+            "settings": {
+                "foreground": "#AD9685"
+            }
+        },
+        {
+            "name": "Rust Keyword",
+            "scope": [
+                "variable.language.super.rust"
+            ],
+            "settings": {
+                "foreground": "#A97070"
             }
         },
         {
