@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/5bd3b37f-58ed-4fb8-a7de-3e43ce31812b" width=150, height=150></div>
 <h1 align="center" valign="middle" >
-  <sup>Posterpole.nvim</sup> 
+  <sup>Posterpole vscode</sup> 
 </h1>
 <p align="center">Simple nvim theme with pastel colors which try to emulate an old retro poster vibe</p>
 <p align="center">
