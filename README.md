@@ -1,3 +1,4 @@
+<div align="center"><img src="https://github.com/user-attachments/assets/5bd3b37f-58ed-4fb8-a7de-3e43ce31812b" width=150, height=150></div>
 <h1 align="center" valign="middle" >
   <sup>Posterpole.nvim</sup> 
 </h1>
