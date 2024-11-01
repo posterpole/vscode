@@ -1,8 +1,16 @@
 {
   "name": "posterpole-theme",
   "displayName": "Posterpole theme",
-  "description": "Posterpole theme port to vscode",
-  "version": "0.0.1",
+  "description": "Posterpole nvim theme port to vscode",
+  "version": "0.1.2",
+  "author": "ilof2 (https://github.com/ilof2)",
+  "publisher": "ilof2",
+  "icon": "./images/posterpole_icon.png",
+  "homepage": "https://github.com/posterpole/vscode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/posterpole/vscode.git"
+  },
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -17,5 +25,6 @@
         "path": "./themes/Posterpole-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }

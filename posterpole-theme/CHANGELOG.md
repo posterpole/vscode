@@ -1,12 +1,10 @@
 # Change Log
 
 
-## [Unreleased]
-
 ### v0.1.2 
 - Support terminal colors
-
-## Changed
+- Changed theme icon
+- Published on marketplace
 
 ### v0.1.1
 

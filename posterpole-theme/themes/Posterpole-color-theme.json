@@ -85,7 +85,31 @@
         "gitDecoration.modifiedResourceForeground": "#C5916B",
         "gitDecoration.deletedResourceForeground": "#854747",
         "gitDecoration.untrackedResourceForeground": "#778C73",
-        "gitDecoration.ignoredResourceForeground": "#444444"
+        "gitDecoration.ignoredResourceForeground": "#444444",
+        
+
+        "terminal.background": "#25222A",
+        "terminal.foreground": "#AEA79C",
+        "terminalCursor.background": "#AEA79C",
+        "terminalCursor.foreground": "#AEA79C",
+
+        "terminal.ansiBlack": "#2C2C30",
+        "terminal.ansiRed": "#A97070",
+        "terminal.ansiGreen": "#778C73",
+        "terminal.ansiYellow": "#CC9166",
+        "terminal.ansiBlue": "#6C7F93",
+        "terminal.ansiMagenta": "#B894AF",
+        "terminal.ansiCyan": "#8EA4A2",
+        "terminal.ansiWhite": "#AFA79D",
+
+        "terminal.ansiBrightBlack": "#A5A59C",
+        "terminal.ansiBrightRed": "#BC8F8F",
+        "terminal.ansiBrightGreen": "#92A38F",
+        "terminal.ansiBrightYellow": "#D9AC8C",
+        "terminal.ansiBrightBlue": "#8A99A8",
+        "terminal.ansiBrightMagenta": "#CCB3C6",
+        "terminal.ansiBrightCyan": "#8FA4A2",
+        "terminal.ansiBrightWhite": "#C6C0B9"
     },
     "tokenColors": [
         {
@@ -100,7 +124,7 @@
             }
         },
         {
-          "nmae": "Punctuation",
+          "name": "Punctuation",
           "scope": [
               "punctuation",
               "punctuation.quoted",
@@ -179,7 +203,7 @@
                 "punctuation.section.embedded",
                 "keyword.other.template",
                 "keyword.other.substitution",
-                "keyword.operator.logical.python",
+                "keyword.operator.logical.python"
             ],
             "settings": {
                 "foreground": "#A97070"
@@ -481,8 +505,7 @@
                 "source.js constant.other.object.key.js string.unquoted.label.js"
             ],
             "settings": {
-                "fontStyle": "italic",
-                "foreground": "#FF5370"
+                "foreground": "#A97070"
             }
         },
         {
