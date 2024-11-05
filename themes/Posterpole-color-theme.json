@@ -23,9 +23,8 @@
 
         "searchEditor.findMatchBackground": "#444444",
         "editor.findMatchBackground": "#C5916B",
-        "editor.findMatchHighlightBackground": "#A97070",
-        "editor.findMatchHighlightForeground": "#000",
-        "editor.findMatchForeground": "#000",
+        "editor.findMatchForeground": "#000000",
+        "editor.findMatchHighlightBackground": "#aaaaee4e",
 
         "button.background": "#6C8093",
         "button.foreground": "#000000",

@@ -1,5 +1,7 @@
 # Change Log
 
+### v0.1.3 fix
+- Fixed highlight on search
 
 ### v0.1.2 
 - Support terminal colors
