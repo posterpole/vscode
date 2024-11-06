@@ -1,6 +1,9 @@
 # Change Log
 
-### v0.1.3 fix
+### v0.1.4
+- Fixed highlight for search in file
+
+### v0.1.3
 - Fixed highlight on search
 
 ### v0.1.2 
