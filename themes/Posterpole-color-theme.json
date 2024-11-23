@@ -110,14 +110,14 @@
         "terminal.ansiBrightCyan": "#8FA4A2",
         "terminal.ansiBrightWhite": "#C6C0B9",
 
-        "diffEditor.border": "#2e2d42",
+        "diffEditor.border": "#24232A",
         "diffEditor.diagonalFill": "#716b8c4d",
-        "diffEditor.insertedLineBackground": "#6bbdc610",
-        "diffEditor.insertedTextBackground": "#6bbdc610",
-        "diffEditor.removedLineBackground": "#b95e8410",
-        "diffEditor.removedTextBackground": "#b95e8410",
-        "diffEditorOverview.insertedForeground": "#6bbdc680",
-        "diffEditorOverview.removedForeground": "#b95e8480",
+        "diffEditor.insertedLineBackground": "#2d303360",
+        "diffEditor.insertedTextBackground": "#2d393360",
+        "diffEditor.removedLineBackground": "#63363660",
+        "diffEditor.removedTextBackground": "#63363660",
+        "diffEditorOverview.insertedForeground": "#2d3933fc",
+        "diffEditorOverview.removedForeground": "#633636f6"
     },
     "tokenColors": [
         {
