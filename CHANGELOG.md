@@ -1,5 +1,8 @@
 # Change Log
 
+### v0.1.4 fix
+- Fixed diff colors
+
 ### v0.1.3 fix
 - Fixed highlight on search
 
