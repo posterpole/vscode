@@ -108,7 +108,16 @@
         "terminal.ansiBrightBlue": "#8A99A8",
         "terminal.ansiBrightMagenta": "#CCB3C6",
         "terminal.ansiBrightCyan": "#8FA4A2",
-        "terminal.ansiBrightWhite": "#C6C0B9"
+        "terminal.ansiBrightWhite": "#C6C0B9",
+
+        "diffEditor.border": "#24232A",
+        "diffEditor.diagonalFill": "#716b8c4d",
+        "diffEditor.insertedLineBackground": "#2d303360",
+        "diffEditor.insertedTextBackground": "#2d393360",
+        "diffEditor.removedLineBackground": "#63363660",
+        "diffEditor.removedTextBackground": "#63363660",
+        "diffEditorOverview.insertedForeground": "#2d3933fc",
+        "diffEditorOverview.removedForeground": "#633636f6"
     },
     "tokenColors": [
         {
