@@ -1,5 +1,8 @@
 # Change Log
 
+### v0.1.5 fix
+- Fixed colorized brackets colors and word highlight
+
 ### v0.1.4 fix
 - Fixed diff colors
 
