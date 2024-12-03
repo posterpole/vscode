@@ -2,7 +2,7 @@
   "name": "posterpole-theme",
   "displayName": "Posterpole theme",
   "description": "Posterpole nvim theme port to vscode",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": "ilof2 (https://github.com/ilof2)",
   "publisher": "ilof2",
   "icon": "./images/posterpole_icon.png",
