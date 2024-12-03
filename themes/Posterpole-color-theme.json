@@ -25,6 +25,7 @@
         "editor.findMatchBackground": "#C5916B",
         "editor.findMatchForeground": "#000000",
         "editor.findMatchHighlightBackground": "#aaaaee4e",
+        "editor.wordHighlightBackground": "#44444499",
 
         "button.background": "#6C8093",
         "button.foreground": "#000000",
@@ -117,7 +118,14 @@
         "diffEditor.removedLineBackground": "#63363660",
         "diffEditor.removedTextBackground": "#63363660",
         "diffEditorOverview.insertedForeground": "#2d3933fc",
-        "diffEditorOverview.removedForeground": "#633636f6"
+        "diffEditorOverview.removedForeground": "#633636f6",
+
+        "editorBracketHighlight.foreground1": "#7F7F7F",
+        "editorBracketHighlight.foreground2": "#8F8F8F",
+        "editorBracketHighlight.foreground3": "#9F9F9F",
+        "editorBracketHighlight.foreground4": "#AFAFAF",
+        "editorBracketHighlight.foreground5": "#BFBFBF",
+        "editorBracketHighlight.foreground6": "#CFCFCF"
     },
     "tokenColors": [
         {
@@ -128,7 +136,7 @@
                 "punctuation"
             ],
             "settings": {
-                "foreground": "#4d4d4d"
+                "foreground": "#4f4f4f"
             }
         },
         {
